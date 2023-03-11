@@ -1,0 +1,10 @@
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\shutomar\Documents\BlazorServerSideAppSourceCode\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.pdb
